@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="www.linkedin.com/in/cường-trần-b027b4303" alt="LinkedIn">
   </a>
    
   <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
