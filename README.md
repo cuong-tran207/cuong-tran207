@@ -12,14 +12,6 @@
      alt="LinkedIn"
      width="30">
   </a>
-   
-  <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio">
-  </a>
-   
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 </p>
 
 </div>
