@@ -7,7 +7,7 @@
 *I believe in the power of code to solve real-world problems, one line at a time.*
 
 <p align="center">
-  <a href="www.linkedin.com/in/cường-trần-b027b4303" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-tr%E1%BA%A7n-b027b4303/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
      alt="LinkedIn"
      width="30">
