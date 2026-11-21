@@ -94,7 +94,7 @@
 
 - 🥇 **1st Place**, Nghe An Province Startup Innovation Competition 2024
 - 🥈 **2nd Place**, Nghe An Province Startup Innovation Competition 2025
-- 🏆 **Top 10 Finalist**, TechFest Nghe An
+- 🏆 **Top 10 Finalist**, TechFest
 - ✨ **2nd Place**, University's FlagUp Competition
 
 ---
